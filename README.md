@@ -1,5 +1,5 @@
-project was taken by github profile 19doors this was my hackathon project of amamzon sambav not all of this was created now i picked the template
-youtube link https://youtu.be/-BDcBgIoZyM
+project was taken by github profile 19doors this was my hackathon project of amamzon sambav not all of this was created now i picked the template it has backend and api but not of what was asked
+youtube link for implementation or watching  https://youtu.be/-BDcBgIoZyM
 # Project Setup
 ## Installation
 
